@@ -1,1 +1,13 @@
 # JavaCollection
+Q1)
+![Screenshot (223)](https://github.com/user-attachments/assets/1ca393a3-2166-408b-90d6-2e9be874a887)
+Q2)
+![Screenshot (224)](https://github.com/user-attachments/assets/cc0cf68e-1275-41a2-8dbf-65139ef02332)
+Q3)
+![Screenshot (222)](https://github.com/user-attachments/assets/74d6f8a7-593c-4b74-a7c0-4ae1649ca641)
+Q4)
+![Screenshot (221)](https://github.com/user-attachments/assets/dbac9dfb-1de7-46c4-a3db-47c4b07ba0c4)
+Q5)
+![Screenshot (220)](https://github.com/user-attachments/assets/02f63b5f-b079-431a-89b6-a762ff24bd0b)
+Q6)
+![Screenshot (219)](https://github.com/user-attachments/assets/70e1f4b2-4b4c-4078-9f90-ebdf6d51fb5d)
